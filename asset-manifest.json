@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/project-ecommercev2/static/css/main.89834d5a.css",
+    "main.js": "/project-ecommercev2/static/js/main.17da70ab.js",
+    "static/js/787.649f7c0f.chunk.js": "/project-ecommercev2/static/js/787.649f7c0f.chunk.js",
+    "static/media/Bulova.jpeg": "/project-ecommercev2/static/media/Bulova.7b965fe3cdc15ec47cb3.jpeg",
+    "static/media/CitizenGreen.jpeg": "/project-ecommercev2/static/media/CitizenGreen.89b3df78ae6c3fa1faad.jpeg",
+    "static/media/CitizenCrystal.webp": "/project-ecommercev2/static/media/CitizenCrystal.e49f27d6a439dd3d110f.webp",
+    "static/media/Ladies_Rolex.webp": "/project-ecommercev2/static/media/Ladies_Rolex.35c01cb8dced66d7dc8b.webp",
+    "static/media/CitizenAllGold.webp": "/project-ecommercev2/static/media/CitizenAllGold.cc472d4d39e1f1c993e4.webp",
+    "static/media/TAGHeuerBlueBez.webp": "/project-ecommercev2/static/media/TAGHeuerBlueBez.82dfb4cb3640432e59b1.webp",
+    "static/media/CitizenPink.webp": "/project-ecommercev2/static/media/CitizenPink.f4534a6168fa0dd8dfe0.webp",
+    "static/media/RolexGreen.webp": "/project-ecommercev2/static/media/RolexGreen.19aba37a31e0b07b716b.webp",
+    "static/media/CitizenGold.webp": "/project-ecommercev2/static/media/CitizenGold.6ed978e2bae79e74337e.webp",
+    "static/media/TAG_Heuer_Lady.webp": "/project-ecommercev2/static/media/TAG_Heuer_Lady.58333c69709c3b072f61.webp",
+    "static/media/TAGHeuer.webp": "/project-ecommercev2/static/media/TAGHeuer.95dae8802ead4b724e27.webp",
+    "static/media/CitizenBlack.webp": "/project-ecommercev2/static/media/CitizenBlack.6640269c397c556f0702.webp",
+    "index.html": "/project-ecommercev2/index.html",
+    "main.89834d5a.css.map": "/project-ecommercev2/static/css/main.89834d5a.css.map",
+    "main.17da70ab.js.map": "/project-ecommercev2/static/js/main.17da70ab.js.map",
+    "787.649f7c0f.chunk.js.map": "/project-ecommercev2/static/js/787.649f7c0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89834d5a.css",
+    "static/js/main.17da70ab.js"
+  ]
+}
